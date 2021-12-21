@@ -1,3 +1,3 @@
-# Parking-Python
+# Parking
 
 Pratica de lógica de programação.
